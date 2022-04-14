@@ -15,6 +15,6 @@
 ### 🚀 Some of my main projects
  
  
-<img width="55%" alt="Mostafa's github stats" src="https://github-readme-stats.vercel.app/api?username=MostafaSolimanMO&show_icons=true&hide_border=true&title_color=000000" />
+<img width="55%" alt="Osama's github stats" src="https://github-readme-stats.vercel.app/api?username=osama450&show_icons=true&hide_border=true&title_color=000000" />
 
 
