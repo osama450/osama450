@@ -41,8 +41,22 @@ competitive prices.
 
 <p><a href="https://play.google.com/store/apps/details?id=com.thinkgeniux.focusi" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/focusi-%D9%81%D9%88%DA%A9%D8%B3-%D8%A2%D9%8A/id1453887720" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
  
+<hr>
+
+<hr>
+
+### Alqalzam
+
+Alqalzam Sea Food Restaurant Resort Games Area.
+.
+.<br />
+
+<p><a href="https://play.google.com/store/apps/details?id=com.customer.alqalzam&hl=en_US&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/alqalzam-%D8%A7%D9%84%D9%82%D9%84%D8%B2%D9%85/id1590624350" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
  
 <hr>
+
+<hr>
+
  
 <img width="55%" alt="Osama's github stats" src="https://github-readme-stats.vercel.app/api?username=osama450&show_icons=true&hide_border=true&title_color=000000" />
 
