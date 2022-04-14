@@ -15,7 +15,7 @@
 ### 🚀 Some of my main projects
 
 ### Children
-
+<hr>
 The standardization platform is: an electronic platform concerned with publishing the greatest duty that God has commanded us, which is to standardize it.<br />
 And implanting it in the hearts of Muslims and calling them to achieve it, addresses the various Sunni stages, starting from
 Childhood and for young people as well as the elderly of all levels of education.<br />
