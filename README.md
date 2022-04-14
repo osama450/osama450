@@ -17,9 +17,4 @@
  
 <img width="55%" alt="Mostafa's github stats" src="https://github-readme-stats.vercel.app/api?username=MostafaSolimanMO&show_icons=true&hide_border=true&title_color=000000" />
 
-<p align="center" >
-  <img alt="visitors" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osama-mohamed-
-                           
-   <img alt="ViewCount" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:osama.kaboo55@gmail.com" />
-</p
 
