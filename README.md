@@ -14,8 +14,7 @@
 
 ### 🚀 Some of my main projects
  
- [Discy /Ask Me Mobile Application](https://2code.info/mobile-apps/) -The first mobile app solution designed for your Discy/Ask Me theme.
-    
+ 
 <img width="55%" alt="Mostafa's github stats" src="https://github-readme-stats.vercel.app/api?username=MostafaSolimanMO&show_icons=true&hide_border=true&title_color=000000" />
 
 <p align="center" >
