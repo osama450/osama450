@@ -13,20 +13,24 @@
 - 📫 You can reach me via LinkedIn, Mail
   
   
-  <hr>
+<hr>
   
 ### 🚀 Some of my main projects
 
-### Children
+### JOE MI
 
-The standardization platform is: an electronic platform concerned with publishing the greatest duty that God has commanded us, which is to standardize it.<br />
-And implanting it in the hearts of Muslims and calling them to achieve it, addresses the various Sunni stages, starting from
-Childhood and for young people as well as the elderly of all levels of education.<br />
+JOE MI is a digital system to manage and track all promoters andmerchandisers detailed activities.
+( Location, Check in & Check out, Sales, Stock, Out of stock,Competitors,Gallery ,VOC, Journey Plan).Providing you with a
+- Clear detailed statistics and dashboard.
+- Data centralization.
+- Registering complaints - users are entities to present theircomplaints totheir service provider by raising a ticket.DashboardA powerful real-time (live) dashboard to summarize all inputsfrom the fieldforce team (promoters and merchandisers). In addition to
+tracking thelocation of each team member.GPS tracker shows notifications and alert the admin whenevera promoter.
+.<br />
 
-<p><a href="https://play.google.com/store/apps/details?id=org.mdarsa.kids" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D9%84%D8%A7%D8%B7%D9%81%D8%A7%D9%84/id1521444013" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=joe13.promotion" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://testflight.apple.com/join/HFrHffEM" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
  
  
- <hr>
+<hr>
  
 <img width="55%" alt="Osama's github stats" src="https://github-readme-stats.vercel.app/api?username=osama450&show_icons=true&hide_border=true&title_color=000000" />
 
