@@ -43,7 +43,6 @@ competitive prices.
  
 <hr>
 
-<hr>
 
 ### Alqalzam
 
@@ -53,7 +52,6 @@ Alqalzam Sea Food Restaurant Resort Games Area.
 
 <p><a href="https://play.google.com/store/apps/details?id=com.customer.alqalzam&hl=en_US&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/alqalzam-%D8%A7%D9%84%D9%82%D9%84%D8%B2%D9%85/id1590624350" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
  
-<hr>
 
 <hr>
 
