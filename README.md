@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-## Hi there,
 
 ![](https://img.shields.io/badge/Mobile-Engineer-purple)
 
