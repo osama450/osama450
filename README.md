@@ -6,7 +6,7 @@
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working at [JOE 13](https://www.joe13th.com/#/)
-- 🛠 Author of [once](https://www.eightyythree.com/#/)
+- 🛠 Author of [Eightyy three](https://www.eightyythree.com/#/)
 - 👯 I’m looking to collaborate on [Flutter](https://github.com/flutter/flutter) 
 - 💬 Ask me about mobile development, I am happy to help 🤝
 - 📫 You can reach me via LinkedIn, Mail
