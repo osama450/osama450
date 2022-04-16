@@ -9,7 +9,7 @@
 - 🛠 Author of [Eightyy three](https://www.eightyythree.com/#/)
 - 👯 I’m looking to collaborate on [Flutter](https://github.com/flutter/flutter) 
 - 💬 Ask me about mobile development, I am happy to help 🤝
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/osama-mohamed-6bb3a51b4/), or 01154521228 
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/osama-mohamed-6bb3a51b4/), [WhatsApp](https://wa.me/+201154521228) 
   
   
 <hr>
