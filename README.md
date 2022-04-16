@@ -91,9 +91,9 @@ Stork Stores is a platform for wholesaling electrical and mobile devices, comput
 
 <hr>
   
-  ### Stork Stores
+  ### Shopynow Egypt
 
-Stork Stores is a platform for wholesaling electrical and mobile devices, computers, spare parts and accessories .
+An e-commerce application for a client to sell all electrical gadgets at home.
 
 <br />
 
