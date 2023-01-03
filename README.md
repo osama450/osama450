@@ -28,6 +28,17 @@ the highest discount rate.
   
 <hr>
 
+### Axle Inspect
+
+Cluster is a B2B marketplace that connects pharmacies with distributors to speed, simplify, and automate the ordering process.
+The app allows pharmacy staff to order needed items, cosmetics, and supplies from stores with
+the highest discount rate.
+.<br />
+
+<p><a href="https://play.google.com/store/apps/details?id=xyz.AlgoDriven.AxleInspect&hl=en_US&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/axle-inspect/id1569186191" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ 
+<hr>
+
 ### JOE MI
 
 JOE MI is a digital system to manage and track all promoters andmerchandisers detailed activities.
