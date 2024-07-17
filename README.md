@@ -90,16 +90,6 @@ Alqalzam Sea Food Restaurant Resort Games Area.
  
 <hr>
 
-### Super marche
-
-The Super Marché online application provides you with allyour supermarket needs with high quality and fast delivery
-to your doorstep at competitive prices.
-<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.joe.supermarche" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/app/id1583047576" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
- 
-<hr>
-
 ### iLean
 
 The Digital Lean tool to enable DP WORLD family to share ideas, Kaizens, A3, Gemba to spread continuous improvement culture ,
@@ -110,33 +100,6 @@ it has been innovated and implemented by DP WORLD Sokhna Team.
 
 <hr>
   
- ### Makazin
-Stores provide you with goods from wholesale warehouses.
-<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.joe.makhazin" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/jo/app/makhazin/id1593172200?l=ar" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
- 
-<hr>
-  
- ### Stork Stores
-
-Stork Stores is a platform for wholesaling electrical and mobile devices, computers, spare parts and accessories .
-
-<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.storksoft.stork_store" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
-
-<hr>
-  
-  ### Shopynow Egypt
-
-An e-commerce application for a client to sell all electrical gadgets at home.
-
-<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.osamaM.shopynowstore&fbclid=IwAR2mBU3gRw4TKZselq8-o--8K5CasH_lUmvzqefP1qsXCaHAmrRadyVWZLI" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" />
-  
-<hr>
  
 
  
