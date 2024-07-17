@@ -24,7 +24,10 @@ The app allows pharmacy staff to order needed items, cosmetics, and supplies fro
 the highest discount rate.
 .<br />
 
-<p></a> <a href="https://apps.apple.com/eg/app/cluster-%D9%83%D9%84%D8%A7%D8%B3%D8%AA%D8%B1/id6443855688" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=xyz.AlgoDriven.AxleInspect&hl=en_US&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /</a> <a href="https://apps.apple.com/eg/app/cluster-%D9%83%D9%84%D8%A7%D8%B3%D8%AA%D8%B1/id6443855688" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+
+https://play.google.com/store/apps/details?id=net.designfy.cluster
   
 <hr>
 
